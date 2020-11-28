@@ -11,7 +11,7 @@ I'm a Backend/DevOps Engineer with mixed interest in Web Development
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&count_private=true"
 />
 
 <img
