@@ -1,5 +1,11 @@
-<h1> Hi there and welcome to my GitHub page 👋 </h1>
+<h1> Hi 👋, I'm Sofwan </h1>
 
+[![](https://komarev.com/ghpvc/?username=SofwanCoder&color=blue&label=Profile%20Views)](https://github.com/SofwanCoder/SofwanCoder)
+[![](https://img.shields.io/github/followers/SofwanCoder?label=GitHub%20Followers)](https://github.com/SofwanCoder)
+
+I'm a Backend/DevOps Engineer with mixed interest in Web Development
+
+## ⚡ Github Stats
 <img
   src="https://github-readme-stats.vercel.app/api?username=SofwanCoder&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sofwan's+GitHub+Stats&show_icons=true"
 />
@@ -11,6 +17,8 @@
 <img
   src="https://github-readme-stats.vercel.app/api/wakatime?username=SofwanCoder"
 />
+
+### Let's Connect 🔗
 
 <a href="https://twitter.com/SofwanCoder">
   <img
