@@ -17,18 +17,14 @@ I build things from scratch that works.. Eventually!
 
 
 ## ⚡ Github Stats
-<img align="center"
-  src="https://github-readme-stats.vercel.app/api?username=SofwanCoder&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sofwan's+GitHub+Stats&show_icons=true"
-/>
-
-<img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&count_private=true"
-/>
 
 <a href="https://twitter.com/SofwanCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&layout=compact&hide_title=false">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SofwanCoder&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sofwan's+GitHub+Stats&show_icons=true"/>
 </a>
 
+<a href="https://twitter.com/SofwanCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
+</a>
 
 <a href="https://twitter.com/SofwanCoder">
   <img align="center" src="https://wakatime.com/share/@SofwanCoder/aa753afc-8553-44ea-b448-7444385ad15e.png" />
