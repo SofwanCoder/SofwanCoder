@@ -17,23 +17,27 @@ I build things from scratch that works.. Eventually!
 
 
 ## ⚡ Github Stats
-<img
+<img align="center"
   src="https://github-readme-stats.vercel.app/api?username=SofwanCoder&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sofwan's+GitHub+Stats&show_icons=true"
 />
 
-<img
+<img align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&count_private=true"
 />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojmr&layout=compact&hide_title=true">
+<a href="https://twitter.com/SofwanCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&layout=compact&hide_title=false">
 </a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@SofwanCoder/c5198575-8b75-45e1-b943-6407eabf8bcd.png" /></a>
+
+<a href="https://twitter.com/SofwanCoder">
+  <img align="center" src="https://wakatime.com/share/@SofwanCoder/aa753afc-8553-44ea-b448-7444385ad15e.png" />
+</a>
 
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
