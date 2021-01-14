@@ -24,7 +24,8 @@ I build things from scratch that works.. Eventually!
 ## ⚡ Github Stats
 
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SofwanCoder&show_icons=true&count_private=true&custom_title=Sofwan's+GitHub+Stats)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SofwanCoder&layout=compact)
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=SofwanCoder)
+
 
 
 ### Languages and Tools:
