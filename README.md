@@ -29,7 +29,7 @@ I build things from scratch that works.. Eventually!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojmr&layout=compact&hide_title=true">
 </a>
 
-<figure><embed src="https://wakatime.com/share/@SofwanCoder/50a4d816-ce82-4f6c-87cc-ced48290c667.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@SofwanCoder/c5198575-8b75-45e1-b943-6407eabf8bcd.png" /></a>
 
 
 ### Languages and Tools:
