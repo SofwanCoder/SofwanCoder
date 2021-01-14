@@ -1,12 +1,17 @@
-<h1> Hi 👋, I'm Sofwan </h1>
-
-[![](https://komarev.com/ghpvc/?username=SofwanCoder&color=blue&label=Profile%20Views)](https://github.com/SofwanCoder/SofwanCoder)
-[![](https://img.shields.io/github/followers/SofwanCoder?label=GitHub%20Followers)](https://github.com/SofwanCoder)
-
+<h1 align="center"> Hi 👋, I'm Sofwan </h1>
 <h3 align="center">
 I'm a Backend/DevOps Engineer with mixed interest in Web Development.
 I build things from scratch that works.. Eventually!
 </h3>
+  
+<p align="center">
+    <a href="https://twitter.com/sofwancoder">
+      <img src="https://komarev.com/ghpvc/?username=SofwanCoder&color=blue&label=Profile%20Views&style=for-the-badge"/>
+    </a>
+    <a href="https://twitter.com/sofwancoder">
+      <img src="https://img.shields.io/github/followers/SofwanCoder?label=GitHub%20Followers&style=for-the-badge"/>
+    </a>
+  </p>
 
 - 🔭 I’m currently working on "Something Cool"
 - 🌱 I’m a Vuevocate
