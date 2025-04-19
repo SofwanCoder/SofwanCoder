@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.2",
+    "@vueuse/core": "^13.1.0",
+    "bootstrap": "^5.3.5",
     "normalize.css": "^8.0.1",
     "pinia": "^2.1.7",
     "vue": "^3.4.14",
@@ -36,11 +37,11 @@
     "jsdom": "^23.2.0",
     "npm-run-all2": "^6.1.1",
     "prettier": "^3.2.2",
-    "sass": "^1.69.7",
+    "sass": "^1.86.3",
     "scss": "^0.2.4",
-    "typescript": "~5.3.3",
-    "vite": "^5.0.11",
-    "vitest": "^1.2.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.2",
+    "vitest": "^3.1.1",
     "vue-tsc": "^1.8.27"
   }
 }
