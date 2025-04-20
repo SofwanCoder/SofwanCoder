@@ -93,9 +93,13 @@
     </div>
 
     <div class="text-center mt-5">
-      <button class="btn btn-dark btn-lg" @click="toggleBooking">
+      <a
+        href="https://topmate.io/sofwancoder"
+        target="_blank"
+        class="btn btn-dark btn-lg"
+      >
         Book a session
-      </button>
+      </a>
     </div>
   </div>
 </template>
